@@ -68,7 +68,7 @@
 68,Beatriz Garcia,C,A,E,B,D,A,C,C,E,B,D,D,E,A,B,C,E,B,A,D
 69,Túlio Meireles,E,A,B,C,E,B,A,D,C,A,E,B,D,A,C,C,E,B,D,D
 70,Larissa Menezes,A,B,C,E,B,A,D,C,A,E,B,D,A,C,C,E,B,D,D,E
-71,Benício Abreu,C,A,E,B,D,A,C,C,E,B,D,D,E,A,B,C,E,B,A,D
+71,Benício Abreu,C,A,E,B,D,A,C,C,E,B,D,D,,A,B,C,E,B,A,D
 72,Iris Campos,B,A,D,C,A,E,B,D,A,C,C,E,B,D,D,E,A,B,C,E
 73,Augusto Guedes,A,D,C,A,E,B,D,A,C,C,E,B,D,D,E,A,B,C,E,B
 74,Alice Chaves,C,A,E,B,D,A,C,C,E,B,D,D,E,A,B,C,E,B,A,D
